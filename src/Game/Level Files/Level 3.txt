@@ -1,0 +1,16 @@
+############################################################  
+ c            t     c         2  4                   c                
+            oooo             ssss             
+                              2                   4  2
+      t             2                            ffff
+    oooo         ssss            ssss   r   r
+                                        r t r
+      oooo                              sssss  
+                     ooooo                          
+mmmm          2                   4                ssss                                               
+            oooo                 oooo                   
+                      ffff                       3                              
+                    1                   ssss    ssss                            
+oooo              oooo        5   k      
+                                                           
+############################################################
